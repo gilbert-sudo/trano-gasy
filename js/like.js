@@ -12,7 +12,7 @@ function like(id) {
         likebtn.style.color = "#fff";
         likebtn.style.background = "#f23a2e";
         console.log('like article')
-    };
+
 }
 
 function react(id) {
